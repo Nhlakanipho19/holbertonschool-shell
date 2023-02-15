@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 's/[Aa]/Z/g; s/[Cc]/e/g'
+echo 's/[Aa]/Z/g s/[Cc]/e/g'
